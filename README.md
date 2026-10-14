@@ -8,7 +8,7 @@ Video Link:
 [▶️Assignment Module 2 - Experimenting with Git - Wesley Green](https://1drv.ms/v/c/29bdfb99976c8b9a/IQDH0F4BIt_lTo2F27ym6DKPAaZeT10fZdm7F6vW5T8kuiY?e=b4Ps8w)
 
 
-##Entry 2. 
+## Entry 2. 
 
 This video shows my walkthrough of the Git Tutorial website, where I reviewed the introductory and advanced Git sections and completed all related exercises. I began by reading through the Git HOME, Git Intro, Git Get Started, Git New Files, Git Staging Environment, and Git Commit sections to understand how Git tracks files, stages changes, and creates commits. I also reviewed the Git Advanced section on .gitignore to learn how Git handles ignored files.
 
